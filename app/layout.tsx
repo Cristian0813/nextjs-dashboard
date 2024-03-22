@@ -21,7 +21,7 @@ export default function RootLayout({
       <body className={`${inter.className} antialiased`}>
         {children}
         <footer className="flex items-center justify-center py-5">
-          Heco con 💕 por la gente vercel
+          Hecho con 💕 por la gente vercel
         </footer>
       </body>
     </html>
